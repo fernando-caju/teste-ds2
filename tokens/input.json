@@ -21,6 +21,18 @@
     "white": {
       "value": "#ffffff",
       "type": "color"
+    },
+    "cinza1": {
+      "value": "#4e4b66",
+      "type": "color"
+    },
+    "cinza2": {
+      "value": "#6e7191",
+      "type": "color"
+    },
+    "cinza3": {
+      "value": "#a0a3bd",
+      "type": "color"
     }
   },
   "spacing": {
