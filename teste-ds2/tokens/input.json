@@ -7,6 +7,10 @@
     "cinza2": {
       "value": "#6e7191",
       "type": "color"
+    },
+    "cinza3": {
+      "value": "#a0a3bd",
+      "type": "color"
     }
   }
 }
