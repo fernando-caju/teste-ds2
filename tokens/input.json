@@ -2,15 +2,15 @@
   "colors": {
     "red": {
       "300": {
-        "value": "#fca5a5",
+        "value": "#FCA5A5",
         "type": "color"
       },
       "500": {
-        "value": "#ef4444",
+        "value": "#EF4444",
         "type": "color"
       },
       "700": {
-        "value": "#b91c1c",
+        "value": "#B91C1C",
         "type": "color"
       }
     },
@@ -20,22 +20,6 @@
     },
     "white": {
       "value": "#ffffff",
-      "type": "color"
-    },
-    "cinza1": {
-      "value": "#4e4b66",
-      "type": "color"
-    },
-    "cinza2": {
-      "value": "#6e7191",
-      "type": "color"
-    },
-    "cinza3": {
-      "value": "#a0a3bd",
-      "type": "color"
-    },
-    "azul": {
-      "value": "#5b80ff",
       "type": "color"
     }
   },
